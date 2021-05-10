@@ -1,0 +1,28 @@
+{
+	"name": "decorator-pattern-ts",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start:ts": "tsc -w",
+		"start:node": "nodemon build/index.js",
+		"start": "concurrently npm:start:*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ferisjuan/decorator-pattern-ts.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"concurrently": "^6.0.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.7"
+	},
+	"bugs": {
+		"url": "https://github.com/ferisjuan/decorator-pattern-ts/issues"
+	},
+	"homepage": "https://github.com/ferisjuan/decorator-pattern-ts#readme"
+}
