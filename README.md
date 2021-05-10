@@ -1,1 +1,1 @@
-# -decorator-pattern-ts
+# decorator-pattern-ts
